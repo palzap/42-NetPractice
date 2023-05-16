@@ -17,6 +17,6 @@ In the NetPractice project, we will apply these concepts to set up and manage ne
 ## Evaluation
 #### First submission
 ##### Date
-xx/xx/xxxxx  
+16/05/2023  
 ##### Score
-xxx%
+100%  
